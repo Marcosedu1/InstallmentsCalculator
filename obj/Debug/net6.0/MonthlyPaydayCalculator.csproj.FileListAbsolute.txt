@@ -1,0 +1,15 @@
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\bin\Debug\net6.0\MonthlyPaydayCalculator.exe
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\bin\Debug\net6.0\MonthlyPaydayCalculator.deps.json
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\bin\Debug\net6.0\MonthlyPaydayCalculator.runtimeconfig.json
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\bin\Debug\net6.0\MonthlyPaydayCalculator.dll
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\bin\Debug\net6.0\MonthlyPaydayCalculator.pdb
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\MonthlyPaydayCalculator.csproj.AssemblyReference.cache
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\MonthlyPaydayCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\MonthlyPaydayCalculator.AssemblyInfoInputs.cache
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\MonthlyPaydayCalculator.AssemblyInfo.cs
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\MonthlyPaydayCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\MonthlyPaydayCalculator.dll
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\refint\MonthlyPaydayCalculator.dll
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\MonthlyPaydayCalculator.pdb
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\MonthlyPaydayCalculator.genruntimeconfig.cache
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\ref\MonthlyPaydayCalculator.dll

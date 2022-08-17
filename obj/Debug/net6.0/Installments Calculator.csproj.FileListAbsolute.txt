@@ -1,0 +1,15 @@
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\bin\Debug\net6.0\Installments Calculator.exe
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\bin\Debug\net6.0\Installments Calculator.deps.json
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\bin\Debug\net6.0\Installments Calculator.runtimeconfig.json
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\bin\Debug\net6.0\Installments Calculator.dll
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\bin\Debug\net6.0\Installments Calculator.pdb
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\Installments Calculator.csproj.AssemblyReference.cache
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\Installments Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\Installments Calculator.AssemblyInfoInputs.cache
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\Installments Calculator.AssemblyInfo.cs
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\Installments Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\Installments Calculator.dll
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\refint\Installments Calculator.dll
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\Installments Calculator.pdb
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\Installments Calculator.genruntimeconfig.cache
+C:\Users\Marcos Eduardo\Documents\Projects\AnnualCalculator\obj\Debug\net6.0\ref\Installments Calculator.dll
